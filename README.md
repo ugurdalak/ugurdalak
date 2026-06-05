@@ -12,7 +12,7 @@ I believe data is most powerful when it tells a story; and while I pride myself 
 
 ### 🧰 Technical Toolbox
 * **Languages:** SQL, Python
-* **Visualization:** Tableau, Looker Studio
+* **Visualization:** Tableau, Data Studio
 
   
 ### 📫 How to reach me:
